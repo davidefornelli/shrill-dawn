@@ -1,0 +1,5 @@
+haikunator
+pygithub
+gitpython
+python-dotenv
+pep8
